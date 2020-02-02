@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSharpAwesome", "ImageSharpAwesome\ImageSharpAwesome.csproj", "{55EB9598-A877-40D2-8094-FFF3BEB2B38E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EB9598-A877-40D2-8094-FFF3BEB2B38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EB9598-A877-40D2-8094-FFF3BEB2B38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EB9598-A877-40D2-8094-FFF3BEB2B38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EB9598-A877-40D2-8094-FFF3BEB2B38E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {498F6550-17E4-4D94-9CB5-F53345E90072}
+	EndGlobalSection
+EndGlobal
